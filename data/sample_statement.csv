@@ -1,0 +1,201 @@
+transaction_id,transaction_date,transaction_time,description,merchant_or_counterparty,category,transaction_type,debit_inr,credit_inr,balance_inr,payment_method,upi_id,reference_id,status,account_label
+UPI2026000001,2026-07-01,17:40:00,Vegetable Vendor,Green Leaf Vegetables,Groceries,Debit,135.38,0.0,32614.62,UPI,greenleaf@okaxis,REF238799713201,SUCCESS,Salary Account
+UPI2026000002,2026-07-01,22:15:00,Grocery - Fresh Basket,Fresh Basket,Groceries,Debit,2734.56,0.0,29880.06,UPI,freshbasket@oksbi,REF700749903512,SUCCESS,Salary Account
+UPI2026000003,2026-07-02,10:15:00,Cab Fare,Rapido,Transport,Debit,686.47,0.0,29193.59,UPI,rapido@upi,REF801815615725,SUCCESS,Salary Account
+UPI2026000004,2026-07-02,15:10:00,Grocery - Fresh Basket,Fresh Basket,Groceries,Debit,948.34,0.0,28245.25,UPI,freshbasket@oksbi,REF769824574056,SUCCESS,Salary Account
+UPI2026000005,2026-07-03,08:30:00,Cab Fare,Rapido,Transport,Debit,645.31,0.0,27599.94,UPI,rapido@upi,REF956813488074,SUCCESS,Salary Account
+UPI2026000006,2026-07-04,07:45:00,Water Bill,BWSSB,Utilities,Debit,585.95,0.0,27013.99,BBPS,,REF939037942829,SUCCESS,Salary Account
+UPI2026000007,2026-07-04,09:05:00,Vehicle Service,City Motors Service,Transport,Debit,5873.19,0.0,21140.8,UPI,citymotors@okhdfcbank,REF965037203656,SUCCESS,Savings Account
+UPI2026000008,2026-07-04,10:05:00,Pharmacy Purchase,Apollo Pharmacy,Healthcare,Debit,111.2,0.0,21029.6,UPI,apollopharmacy@upi,REF235953881688,SUCCESS,Salary Account
+UPI2026000009,2026-07-05,10:45:00,Coffee Shop,Third Wave Coffee,Food & Dining,Debit,112.04,0.0,20917.56,UPI,thirdwave@okicici,REF692978045170,SUCCESS,Salary Account
+UPI2026000010,2026-07-06,11:10:00,Online Course Fee,LearnHub,Education,Debit,1391.45,0.0,19526.11,UPI,learnhub@oksbi,REF777187716631,SUCCESS,Current Account
+UPI2026000011,2026-07-06,14:15:00,Cashback Reward,Rewards Program,Cashback,Credit,0.0,18.08,19544.19,UPI,rewards@paytm,REF546749204231,SUCCESS,Savings Account
+UPI2026000012,2026-07-06,14:40:00,ATM Cash Withdrawal,HDFC ATM - Indiranagar,Cash Withdrawal,Debit,884.9,0.0,18659.29,ATM,,REF418344622303,SUCCESS,Savings Account
+UPI2026000013,2026-07-06,20:50:00,Auto Rickshaw,Local Auto Driver,Transport,Debit,150.19,0.0,18509.1,UPI,auto.driver@okaxis,REF356048389330,SUCCESS,Salary Account
+UPI2026000014,2026-07-07,17:10:00,Grocery - Fresh Basket,Fresh Basket,Groceries,Debit,453.01,0.0,18056.09,UPI,freshbasket@oksbi,REF881363708162,SUCCESS,Salary Account
+UPI2026000015,2026-07-07,20:55:00,Bakery Purchase,Daily Crust Bakery,Food & Dining,Debit,357.04,0.0,17699.05,UPI,dailycrust@oksbi,REF486049372319,SUCCESS,Salary Account
+UPI2026000016,2026-07-07,21:15:00,Auto Rickshaw,Local Auto Driver,Transport,Debit,80.03,0.0,17619.02,UPI,auto.driver@okaxis,REF680305391763,SUCCESS,Salary Account
+UPI2026000017,2026-07-08,12:05:00,Monthly Salary,Northstar Technologies Pvt Ltd,Income,Credit,0.0,66377.94,83996.96,NEFT,,REF856857470196,SUCCESS,Salary Account
+UPI2026000018,2026-07-09,07:05:00,Concert Ticket,BookMyShow,Entertainment,Debit,1655.08,0.0,82341.88,UPI,bookmyshow@okaxis,REF862279664600,SUCCESS,Savings Account
+UPI2026000019,2026-07-10,09:20:00,Online Shopping,Myntra,Shopping,Debit,3974.3,0.0,78367.58,UPI,myntra@axisbank,REF668781321791,SUCCESS,Savings Account
+UPI2026000020,2026-07-10,13:05:00,Diagnostic Test,HealthCheck Labs,Healthcare,Debit,1922.41,0.0,76445.17,UPI,healthcheck@oksbi,REF242228373701,SUCCESS,Salary Account
+UPI2026000021,2026-07-10,13:30:00,Online Shopping,Myntra,Shopping,Debit,849.33,0.0,75595.84,UPI,myntra@axisbank,REF750323233848,SUCCESS,Savings Account
+UPI2026000022,2026-07-10,15:50:00,Transfer to Savings,Personal Savings Account,Savings Transfer,Debit,9737.96,0.0,65857.88,NEFT,,REF890008629164,SUCCESS,Recurring Deposit Account
+UPI2026000023,2026-07-10,16:45:00,Metro Smart Card,Namma Metro,Transport,Debit,0.0,0.0,65857.88,UPI,metro@paytm,REF557160259398,FAILED,Salary Account
+UPI2026000024,2026-07-11,20:10:00,Vehicle Service,City Motors Service,Transport,Debit,3824.26,0.0,62033.62,UPI,citymotors@okhdfcbank,REF906964070027,SUCCESS,Savings Account
+UPI2026000025,2026-07-12,10:45:00,Household Help Payment,Anita - House Help,Household,Debit,1687.21,0.0,60346.41,UPI,anita.help@oksbi,REF742669522685,SUCCESS,Savings Account
+UPI2026000026,2026-07-13,21:50:00,Health Insurance Premium,Star Health,Insurance,Debit,3419.77,0.0,56926.64,Auto Debit,,REF983693014230,SUCCESS,Savings Account
+UPI2026000027,2026-07-14,16:05:00,Grocery - Fresh Basket,Fresh Basket,Groceries,Debit,2277.64,0.0,54649.0,UPI,freshbasket@oksbi,REF903220443009,SUCCESS,Salary Account
+UPI2026000028,2026-07-17,08:15:00,Water Bill,BWSSB,Utilities,Debit,434.68,0.0,54214.32,BBPS,,REF557280865836,SUCCESS,Salary Account
+UPI2026000029,2026-07-18,20:55:00,Transfer to Savings,Personal Savings Account,Savings Transfer,Debit,7229.89,0.0,46984.43,NEFT,,REF861356706081,SUCCESS,Savings Account
+UPI2026000030,2026-07-19,20:45:00,Clothing Purchase,Westside,Shopping,Debit,4157.95,0.0,42826.48,Debit Card,,REF395370614530,SUCCESS,Savings Account
+UPI2026000031,2026-07-20,10:30:00,Freelance Project Payment,PixelCraft Studio,Income,Credit,0.0,5345.82,48172.3,IMPS,,REF821785740326,SUCCESS,Current Account
+UPI2026000032,2026-07-20,12:20:00,Grocery - Supermarket,More Supermarket,Groceries,Debit,3352.52,0.0,44819.78,Debit Card,,REF375245858315,SUCCESS,Salary Account
+UPI2026000033,2026-07-20,16:10:00,Coffee Shop,Third Wave Coffee,Food & Dining,Debit,409.53,0.0,44410.25,UPI,thirdwave@okicici,REF380011094471,SUCCESS,Salary Account
+UPI2026000034,2026-07-20,17:55:00,Cab Fare,Rapido,Transport,Debit,247.38,0.0,44162.87,UPI,rapido@upi,REF718902085176,SUCCESS,Salary Account
+UPI2026000035,2026-07-20,22:50:00,Restaurant - Dine In,Copper Chimney Cafe,Food & Dining,Debit,839.86,0.0,43323.01,UPI,copperchimney@upi,REF665461818908,SUCCESS,Salary Account
+UPI2026000036,2026-07-23,07:10:00,Food Delivery Order,Swiggy,Food & Dining,Debit,243.05,0.0,43079.96,UPI,swiggy@axisbank,REF225650330214,SUCCESS,Salary Account
+UPI2026000037,2026-07-23,12:05:00,Pharmacy Purchase,Apollo Pharmacy,Healthcare,Debit,1400.06,0.0,41679.9,UPI,apollopharmacy@upi,REF530712433592,SUCCESS,Salary Account
+UPI2026000038,2026-07-23,13:00:00,Transfer to Friend,Riya Sharma,Transfers,Debit,3991.21,0.0,37688.69,UPI,riya.sharma@okicici,REF792975536772,SUCCESS,Savings Account
+UPI2026000039,2026-07-24,14:45:00,Concert Ticket,BookMyShow,Entertainment,Debit,2127.26,0.0,35561.43,UPI,bookmyshow@okaxis,REF886404299266,SUCCESS,Savings Account
+UPI2026000040,2026-07-25,14:15:00,Household Help Payment,Anita - House Help,Household,Debit,1893.69,0.0,33667.74,UPI,anita.help@oksbi,REF658314296685,SUCCESS,Savings Account
+UPI2026000041,2026-07-26,07:10:00,Monthly Salary,Northstar Technologies Pvt Ltd,Income,Credit,0.0,54089.09,87756.83,NEFT,,REF613763747157,SUCCESS,Salary Account
+UPI2026000042,2026-07-26,17:10:00,Restaurant - Dine In,Copper Chimney Cafe,Food & Dining,Debit,2183.03,0.0,85573.8,UPI,copperchimney@upi,REF772177261806,SUCCESS,Salary Account
+UPI2026000043,2026-07-27,21:20:00,Health Insurance Premium,Star Health,Insurance,Debit,2038.07,0.0,83535.73,Auto Debit,,REF466797758403,SUCCESS,Savings Account
+UPI2026000044,2026-07-28,11:40:00,Diagnostic Test,HealthCheck Labs,Healthcare,Debit,2361.73,0.0,81174.0,UPI,healthcheck@oksbi,REF812461798431,SUCCESS,Salary Account
+UPI2026000045,2026-07-28,17:40:00,Coffee Shop,Third Wave Coffee,Food & Dining,Debit,125.47,0.0,81048.53,UPI,thirdwave@okicici,REF902296926071,SUCCESS,Salary Account
+UPI2026000046,2026-07-29,14:20:00,Restaurant - Dine In,Copper Chimney Cafe,Food & Dining,Debit,1629.6,0.0,79418.93,UPI,copperchimney@upi,REF920560473539,SUCCESS,Salary Account
+UPI2026000047,2026-07-29,16:00:00,Exam Registration Fee,University Portal,Education,Debit,1710.61,0.0,77708.32,Net Banking,,REF897910260663,SUCCESS,Current Account
+UPI2026000048,2026-07-29,19:15:00,Bank Service Charge,Bank,Bank Charges,Debit,52.0,0.0,77656.32,Bank Charge,,REF177313114111,SUCCESS,Savings Account
+UPI2026000049,2026-07-29,22:45:00,Electronics Purchase,Croma,Shopping,Debit,5951.66,0.0,71704.66,Credit Card,,REF887148054995,SUCCESS,Savings Account
+UPI2026000050,2026-07-30,09:00:00,Cloud Storage Subscription,Google One,Subscriptions,Debit,649.0,0.0,71055.66,Card,,REF445700887849,SUCCESS,Salary Account
+UPI2026000051,2026-07-30,10:20:00,Video Streaming Subscription,Netflix,Subscriptions,Debit,199.0,0.0,70856.66,E-Mandate,,REF992011020686,SUCCESS,Salary Account
+UPI2026000052,2026-07-30,16:05:00,Video Streaming Subscription,Netflix,Subscriptions,Debit,149.0,0.0,70707.66,E-Mandate,,REF338992242268,SUCCESS,Salary Account
+UPI2026000053,2026-07-31,17:10:00,Auto Rickshaw,Local Auto Driver,Transport,Debit,59.71,0.0,70647.95,UPI,auto.driver@okaxis,REF723191967436,SUCCESS,Salary Account
+UPI2026000054,2026-08-01,09:20:00,Online Course Fee,LearnHub,Education,Debit,0.0,0.0,70647.95,UPI,learnhub@oksbi,REF131829777387,REVERSED,Current Account
+UPI2026000055,2026-08-01,10:05:00,Online Shopping,Myntra,Shopping,Debit,5303.12,0.0,65344.83,UPI,myntra@axisbank,REF654145843791,SUCCESS,Savings Account
+UPI2026000056,2026-08-01,18:40:00,Transfer to Friend,Riya Sharma,Transfers,Debit,3097.93,0.0,62246.9,UPI,riya.sharma@okicici,REF545570763661,SUCCESS,Savings Account
+UPI2026000057,2026-08-01,19:40:00,Transfer to Savings,Personal Savings Account,Savings Transfer,Debit,6705.54,0.0,55541.36,NEFT,,REF978981548202,SUCCESS,Recurring Deposit Account
+UPI2026000058,2026-08-02,08:40:00,Restaurant - Dine In,Copper Chimney Cafe,Food & Dining,Debit,898.74,0.0,54642.62,UPI,copperchimney@upi,REF112138312541,SUCCESS,Salary Account
+UPI2026000059,2026-08-03,11:50:00,Fuel Purchase,Indian Oil,Transport,Debit,1931.09,0.0,52711.53,Debit Card,,REF779980093795,SUCCESS,Salary Account
+UPI2026000060,2026-08-03,14:00:00,Cab Fare,Rapido,Transport,Debit,436.28,0.0,52275.25,UPI,rapido@upi,REF427893341700,SUCCESS,Salary Account
+UPI2026000061,2026-08-03,14:20:00,Water Bill,BWSSB,Utilities,Debit,487.28,0.0,51787.97,BBPS,,REF905058574715,SUCCESS,Salary Account
+UPI2026000062,2026-08-04,13:50:00,Food Delivery Order,Swiggy,Food & Dining,Debit,324.53,0.0,51463.44,UPI,swiggy@axisbank,REF911711183997,SUCCESS,Salary Account
+UPI2026000063,2026-08-04,15:20:00,ATM Cash Withdrawal,HDFC ATM - Indiranagar,Cash Withdrawal,Debit,4298.68,0.0,47164.76,ATM,,REF630983631102,SUCCESS,Savings Account
+UPI2026000064,2026-08-04,18:15:00,Bakery Purchase,Daily Crust Bakery,Food & Dining,Debit,502.39,0.0,46662.37,UPI,dailycrust@oksbi,REF357559309721,SUCCESS,Salary Account
+UPI2026000065,2026-08-05,08:20:00,Water Bill,BWSSB,Utilities,Debit,365.13,0.0,46297.24,BBPS,,REF427897703277,SUCCESS,Salary Account
+UPI2026000066,2026-08-05,12:15:00,Auto Rickshaw,Local Auto Driver,Transport,Debit,171.73,0.0,46125.51,UPI,auto.driver@okaxis,REF861902225720,SUCCESS,Salary Account
+UPI2026000067,2026-08-07,14:05:00,Clothing Purchase,Westside,Shopping,Debit,1409.97,0.0,44715.54,Debit Card,,REF709734034249,SUCCESS,Savings Account
+UPI2026000068,2026-08-07,14:45:00,Online Course Fee,LearnHub,Education,Debit,2036.48,0.0,42679.06,UPI,learnhub@oksbi,REF367881498999,SUCCESS,Current Account
+UPI2026000069,2026-08-08,08:40:00,Coffee Shop,Third Wave Coffee,Food & Dining,Debit,269.55,0.0,42409.51,UPI,thirdwave@okicici,REF450521976508,SUCCESS,Salary Account
+UPI2026000070,2026-08-08,22:00:00,Clothing Purchase,Westside,Shopping,Debit,3814.95,0.0,38594.56,Debit Card,,REF124486794229,SUCCESS,Savings Account
+UPI2026000071,2026-08-09,12:15:00,Restaurant - Dine In,Copper Chimney Cafe,Food & Dining,Debit,1186.4,0.0,37408.16,UPI,copperchimney@upi,REF742749279872,SUCCESS,Salary Account
+UPI2026000072,2026-08-09,13:15:00,Bank Service Charge,Bank,Bank Charges,Debit,130.31,0.0,37277.85,Bank Charge,,REF145208636758,SUCCESS,Savings Account
+UPI2026000073,2026-08-10,15:30:00,Auto Rickshaw,Local Auto Driver,Transport,Debit,223.79,0.0,37054.06,UPI,auto.driver@okaxis,REF404335654761,SUCCESS,Salary Account
+UPI2026000074,2026-08-10,17:30:00,Sports Equipment,Decathlon,Fitness,Debit,2685.54,0.0,34368.52,UPI,decathlon@upi,REF690840489936,SUCCESS,Savings Account
+UPI2026000075,2026-08-11,10:40:00,Transfer to Friend,Riya Sharma,Transfers,Debit,2588.49,0.0,31780.03,UPI,riya.sharma@okicici,REF898732610865,SUCCESS,Savings Account
+UPI2026000076,2026-08-11,17:10:00,Concert Ticket,BookMyShow,Entertainment,Debit,957.85,0.0,30822.18,UPI,bookmyshow@okaxis,REF827094725857,SUCCESS,Savings Account
+UPI2026000077,2026-08-11,19:10:00,Metro Smart Card,Namma Metro,Transport,Debit,793.61,0.0,30028.57,UPI,metro@paytm,REF426592586613,SUCCESS,Salary Account
+UPI2026000078,2026-08-12,20:45:00,Movie Tickets,PVR Cinemas,Entertainment,Debit,448.46,0.0,29580.11,UPI,pvr@paytm,REF263549615051,SUCCESS,Salary Account
+UPI2026000079,2026-08-13,09:10:00,Pharmacy Purchase,Apollo Pharmacy,Healthcare,Debit,1209.17,0.0,28370.94,UPI,apollopharmacy@upi,REF618048226991,SUCCESS,Salary Account
+UPI2026000080,2026-08-13,19:30:00,Movie Tickets,PVR Cinemas,Entertainment,Debit,821.37,0.0,27549.57,UPI,pvr@paytm,REF707403705120,SUCCESS,Salary Account
+UPI2026000081,2026-08-14,22:55:00,ATM Cash Withdrawal,HDFC ATM - Indiranagar,Cash Withdrawal,Debit,0.0,0.0,27549.57,ATM,,REF424247030076,FAILED,Savings Account
+UPI2026000082,2026-08-15,08:50:00,Bakery Purchase,Daily Crust Bakery,Food & Dining,Debit,188.37,0.0,27361.2,UPI,dailycrust@oksbi,REF667976967032,SUCCESS,Salary Account
+UPI2026000083,2026-08-15,10:15:00,Coffee Shop,Third Wave Coffee,Food & Dining,Debit,187.83,0.0,27173.37,UPI,thirdwave@okicici,REF599507540053,SUCCESS,Salary Account
+UPI2026000084,2026-08-15,13:55:00,Restaurant - Dine In,Copper Chimney Cafe,Food & Dining,Debit,1752.55,0.0,25420.82,UPI,copperchimney@upi,REF720890272442,SUCCESS,Salary Account
+UPI2026000085,2026-08-15,15:15:00,Metro Smart Card,Namma Metro,Transport,Debit,713.68,0.0,24707.14,UPI,metro@paytm,REF932695852422,SUCCESS,Salary Account
+UPI2026000086,2026-08-16,10:45:00,Online Course Fee,LearnHub,Education,Debit,3193.2,0.0,21513.94,UPI,learnhub@oksbi,REF390162065641,SUCCESS,Current Account
+UPI2026000087,2026-08-16,16:45:00,Coffee Shop,Third Wave Coffee,Food & Dining,Debit,332.71,0.0,21181.23,UPI,thirdwave@okicici,REF120635360906,SUCCESS,Salary Account
+UPI2026000088,2026-08-16,21:30:00,Fuel Purchase,Indian Oil,Transport,Debit,2284.09,0.0,18897.14,Debit Card,,REF995814974447,SUCCESS,Salary Account
+UPI2026000089,2026-08-17,11:50:00,Bank Service Charge,Bank,Bank Charges,Debit,162.54,0.0,18734.6,Bank Charge,,REF713904752329,SUCCESS,Savings Account
+UPI2026000090,2026-08-17,18:10:00,Vegetable Vendor,Green Leaf Vegetables,Groceries,Debit,234.84,0.0,18499.76,UPI,greenleaf@okaxis,REF239716670301,SUCCESS,Salary Account
+UPI2026000091,2026-08-18,07:45:00,Water Bill,BWSSB,Utilities,Debit,483.05,0.0,18016.71,BBPS,,REF538528089025,SUCCESS,Salary Account
+UPI2026000092,2026-08-18,10:10:00,Interest Credit,Bank,Interest,Credit,0.0,179.12,18195.83,Bank Credit,,REF455997056788,SUCCESS,Fixed Deposit Account
+UPI2026000093,2026-08-19,14:50:00,Video Streaming Subscription,Netflix,Subscriptions,Debit,149.0,0.0,18046.83,E-Mandate,,REF215304495643,SUCCESS,Salary Account
+UPI2026000094,2026-08-19,15:50:00,Rent - Apartment,Lakeview Residency,Housing,Debit,14152.77,0.0,3894.06,UPI,lakeview.rent@okhdfcbank,REF846485831542,SUCCESS,Salary Account
+UPI2026000095,2026-08-19,20:05:00,Coffee Shop,Third Wave Coffee,Food & Dining,Debit,110.91,0.0,3783.15,UPI,thirdwave@okicici,REF746472933199,SUCCESS,Salary Account
+UPI2026000096,2026-08-21,13:30:00,Home Supplies,Home Essentials,Shopping,Debit,1460.7,0.0,2322.45,UPI,homeessentials@upi,REF193509540190,SUCCESS,Savings Account
+UPI2026000097,2026-08-22,08:30:00,Metro Smart Card,Namma Metro,Transport,Debit,867.04,0.0,1455.41,UPI,metro@paytm,REF304940695642,SUCCESS,Salary Account
+UPI2026000098,2026-08-23,14:10:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,230.74,0.0,1224.67,UPI,localvendor@upi,REF818912459140,SUCCESS,Savings Account
+UPI2026000099,2026-08-24,14:20:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,393.43,0.0,831.24,UPI,localvendor@upi,REF820473534747,SUCCESS,Savings Account
+UPI2026000100,2026-08-24,20:05:00,Monthly Salary,Northstar Technologies Pvt Ltd,Income,Credit,0.0,49520.29,50351.53,NEFT,,REF621077691156,SUCCESS,Salary Account
+UPI2026000101,2026-08-26,11:00:00,Clothing Purchase,Westside,Shopping,Debit,4007.24,0.0,46344.29,Debit Card,,REF927419247150,SUCCESS,Savings Account
+UPI2026000102,2026-08-26,11:50:00,Electronics Purchase,Croma,Shopping,Debit,11579.89,0.0,34764.4,Credit Card,,REF572917268607,SUCCESS,Savings Account
+UPI2026000103,2026-08-27,13:00:00,Bank Service Charge,Bank,Bank Charges,Debit,81.9,0.0,34682.5,Bank Charge,,REF601170702207,SUCCESS,Savings Account
+UPI2026000104,2026-08-28,17:15:00,Auto Rickshaw,Local Auto Driver,Transport,Debit,187.11,0.0,34495.39,UPI,auto.driver@okaxis,REF720412982798,SUCCESS,Salary Account
+UPI2026000105,2026-08-28,18:05:00,Vehicle Service,City Motors Service,Transport,Debit,2930.91,0.0,31564.48,UPI,citymotors@okhdfcbank,REF959486419508,SUCCESS,Savings Account
+UPI2026000106,2026-08-29,22:15:00,Rent - Apartment,Lakeview Residency,Housing,Debit,15975.86,0.0,15588.62,UPI,lakeview.rent@okhdfcbank,REF207390364585,SUCCESS,Salary Account
+UPI2026000107,2026-08-31,22:15:00,Cab Fare,Rapido,Transport,Debit,535.16,0.0,15053.46,UPI,rapido@upi,REF675580586501,SUCCESS,Salary Account
+UPI2026000108,2026-09-01,13:10:00,Interest Credit,Bank,Interest,Credit,0.0,196.98,15250.44,Bank Credit,,REF721670482116,SUCCESS,Fixed Deposit Account
+UPI2026000109,2026-09-02,09:10:00,Pharmacy Purchase,Apollo Pharmacy,Healthcare,Debit,614.32,0.0,14636.12,UPI,apollopharmacy@upi,REF136403602076,SUCCESS,Salary Account
+UPI2026000110,2026-09-02,15:05:00,Mobile Recharge,Jio Prepaid,Utilities,Debit,340.89,0.0,14295.23,UPI,jio.recharge@paytm,REF424124934759,SUCCESS,Salary Account
+UPI2026000111,2026-09-03,17:00:00,Cloud Storage Subscription,Google One,Subscriptions,Debit,499.0,0.0,13796.23,Card,,REF934070011088,SUCCESS,Salary Account
+UPI2026000112,2026-09-04,07:40:00,Grocery - Supermarket,More Supermarket,Groceries,Debit,966.91,0.0,12829.32,Debit Card,,REF234656940847,SUCCESS,Salary Account
+UPI2026000113,2026-09-04,16:55:00,Mobile Recharge,Jio Prepaid,Utilities,Debit,383.9,0.0,12445.42,UPI,jio.recharge@paytm,REF183275078834,SUCCESS,Salary Account
+UPI2026000114,2026-09-05,10:00:00,Bakery Purchase,Daily Crust Bakery,Food & Dining,Debit,537.92,0.0,11907.5,UPI,dailycrust@oksbi,REF433119504180,SUCCESS,Salary Account
+UPI2026000115,2026-09-05,12:45:00,Sports Equipment,Decathlon,Fitness,Debit,1691.01,0.0,10216.49,UPI,decathlon@upi,REF252875735707,SUCCESS,Savings Account
+UPI2026000116,2026-09-06,22:50:00,Cab Fare,Rapido,Transport,Debit,885.04,0.0,9331.45,UPI,rapido@upi,REF717008195400,SUCCESS,Salary Account
+UPI2026000117,2026-09-07,09:30:00,Charity Donation,Community Food Trust,Donations,Debit,692.66,0.0,8638.79,UPI,foodtrust@upi,REF172193575770,SUCCESS,Savings Account
+UPI2026000118,2026-09-08,12:40:00,Concert Ticket,BookMyShow,Entertainment,Debit,3140.77,0.0,5498.02,UPI,bookmyshow@okaxis,REF642437132833,SUCCESS,Savings Account
+UPI2026000119,2026-09-09,20:00:00,Grocery - Supermarket,More Supermarket,Groceries,Debit,1326.48,0.0,4171.54,Debit Card,,REF543868046040,SUCCESS,Salary Account
+UPI2026000120,2026-09-10,07:45:00,Cloud Storage Subscription,Google One,Subscriptions,Debit,499.0,0.0,3672.54,Card,,REF190807571304,SUCCESS,Salary Account
+UPI2026000121,2026-09-10,14:55:00,Mobile Recharge,Jio Prepaid,Utilities,Debit,583.91,0.0,3088.63,UPI,jio.recharge@paytm,REF296195955816,SUCCESS,Salary Account
+UPI2026000122,2026-09-13,09:50:00,Video Streaming Subscription,Netflix,Subscriptions,Debit,499.0,0.0,2589.63,E-Mandate,,REF804813188861,SUCCESS,Salary Account
+UPI2026000123,2026-09-13,18:00:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,430.19,0.0,2159.44,UPI,localvendor@upi,REF885271454231,SUCCESS,Savings Account
+UPI2026000124,2026-09-13,21:10:00,Diagnostic Test,HealthCheck Labs,Healthcare,Debit,735.49,0.0,1423.95,UPI,healthcheck@oksbi,REF110478325965,SUCCESS,Salary Account
+UPI2026000125,2026-09-14,20:10:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,260.54,0.0,1163.41,UPI,localvendor@upi,REF125739115316,SUCCESS,Savings Account
+UPI2026000126,2026-09-15,10:05:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,368.72,0.0,794.69,UPI,localvendor@upi,REF297433387926,SUCCESS,Savings Account
+UPI2026000127,2026-09-15,16:55:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,240.57,0.0,554.12,UPI,localvendor@upi,REF216989977207,SUCCESS,Savings Account
+UPI2026000128,2026-09-16,22:00:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,232.97,0.0,321.15,UPI,localvendor@upi,REF111843764709,SUCCESS,Savings Account
+UPI2026000129,2026-09-18,11:45:00,Clothing Purchase,Westside,Shopping,Debit,0.0,0.0,321.15,Debit Card,,REF402298570210,REVERSED,Savings Account
+UPI2026000130,2026-09-18,12:55:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,66.12,0.0,255.03,UPI,localvendor@upi,REF712759693416,SUCCESS,Savings Account
+UPI2026000131,2026-09-18,16:00:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,295.66,0.0,-40.63,UPI,localvendor@upi,REF251330131872,SUCCESS,Savings Account
+UPI2026000132,2026-09-18,21:55:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,366.07,0.0,-406.7,UPI,localvendor@upi,REF493197068901,SUCCESS,Savings Account
+UPI2026000133,2026-09-19,17:45:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,280.06,0.0,-686.76,UPI,localvendor@upi,REF940252019528,SUCCESS,Savings Account
+UPI2026000134,2026-09-19,18:00:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,191.48,0.0,-878.24,UPI,localvendor@upi,REF744743961757,SUCCESS,Savings Account
+UPI2026000135,2026-09-20,08:15:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,192.96,0.0,-1071.2,UPI,localvendor@upi,REF196893409811,SUCCESS,Savings Account
+UPI2026000136,2026-09-21,08:10:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,155.67,0.0,-1226.87,UPI,localvendor@upi,REF640891545163,SUCCESS,Savings Account
+UPI2026000137,2026-09-21,08:15:00,Interest Credit,Bank,Interest,Credit,0.0,1000.0,-226.87,Bank Credit,,REF782942598320,SUCCESS,Fixed Deposit Account
+UPI2026000138,2026-09-21,11:15:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,196.94,0.0,-423.81,UPI,localvendor@upi,REF823557149601,SUCCESS,Savings Account
+UPI2026000139,2026-09-21,11:20:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,224.87,0.0,-648.68,UPI,localvendor@upi,REF901200545157,SUCCESS,Savings Account
+UPI2026000140,2026-09-21,12:20:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,172.14,0.0,-820.82,UPI,localvendor@upi,REF933650527903,SUCCESS,Savings Account
+UPI2026000141,2026-09-21,13:00:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,114.04,0.0,-934.86,UPI,localvendor@upi,REF766191302127,SUCCESS,Savings Account
+UPI2026000142,2026-09-22,19:15:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,137.47,0.0,-1072.33,UPI,localvendor@upi,REF871380861173,SUCCESS,Savings Account
+UPI2026000143,2026-09-22,20:00:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,211.97,0.0,-1284.3,UPI,localvendor@upi,REF857916829597,SUCCESS,Savings Account
+UPI2026000144,2026-09-24,12:15:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,170.61,0.0,-1454.91,UPI,localvendor@upi,REF813997829174,SUCCESS,Savings Account
+UPI2026000145,2026-09-25,08:55:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,186.38,0.0,-1641.29,UPI,localvendor@upi,REF648506432426,SUCCESS,Savings Account
+UPI2026000146,2026-09-25,13:50:00,Food Delivery Order,Swiggy,Food & Dining,Debit,0.0,0.0,-1641.29,UPI,swiggy@axisbank,REF599794987423,FAILED,Salary Account
+UPI2026000147,2026-09-25,15:15:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,333.07,0.0,-1974.36,UPI,localvendor@upi,REF388466797128,SUCCESS,Savings Account
+UPI2026000148,2026-09-26,14:50:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,367.13,0.0,-2341.49,UPI,localvendor@upi,REF950139876216,SUCCESS,Savings Account
+UPI2026000149,2026-09-26,20:30:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,114.77,0.0,-2456.26,UPI,localvendor@upi,REF757720867159,SUCCESS,Savings Account
+UPI2026000150,2026-09-30,11:05:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,98.16,0.0,-2554.42,UPI,localvendor@upi,REF119803353613,SUCCESS,Savings Account
+UPI2026000151,2026-09-30,15:15:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,292.78,0.0,-2847.2,UPI,localvendor@upi,REF466654219480,SUCCESS,Savings Account
+UPI2026000152,2026-09-30,16:50:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,236.75,0.0,-3083.95,UPI,localvendor@upi,REF940817982185,SUCCESS,Savings Account
+UPI2026000153,2026-09-30,17:10:00,Cashback Reward,Rewards Program,Cashback,Credit,0.0,1000.0,-2083.95,UPI,rewards@paytm,REF103164239968,SUCCESS,Savings Account
+UPI2026000154,2026-10-01,08:40:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,76.48,0.0,-2160.43,UPI,localvendor@upi,REF533279793840,SUCCESS,Savings Account
+UPI2026000155,2026-10-02,08:30:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,351.89,0.0,-2512.32,UPI,localvendor@upi,REF942920630505,SUCCESS,Savings Account
+UPI2026000156,2026-10-02,11:30:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,65.75,0.0,-2578.07,UPI,localvendor@upi,REF526571798476,SUCCESS,Savings Account
+UPI2026000157,2026-10-02,19:00:00,Freelance Project Payment,PixelCraft Studio,Income,Credit,0.0,10996.21,8418.14,IMPS,,REF532823151545,SUCCESS,Current Account
+UPI2026000158,2026-10-03,20:15:00,Gym Membership,Pulse Fitness,Fitness,Debit,1406.63,0.0,7011.51,UPI,pulsefitness@okhdfcbank,REF444935970812,SUCCESS,Salary Account
+UPI2026000159,2026-10-05,17:20:00,Health Insurance Premium,Star Health,Insurance,Debit,4097.06,0.0,2914.45,Auto Debit,,REF902946425301,SUCCESS,Savings Account
+UPI2026000160,2026-10-06,11:00:00,Music Subscription,Spotify,Subscriptions,Debit,119.0,0.0,2795.45,E-Mandate,,REF693384916786,SUCCESS,Salary Account
+UPI2026000161,2026-10-07,22:55:00,Sports Equipment,Decathlon,Fitness,Debit,852.91,0.0,1942.54,UPI,decathlon@upi,REF166829252869,SUCCESS,Savings Account
+UPI2026000162,2026-10-08,22:05:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,305.41,0.0,1637.13,UPI,localvendor@upi,REF472065779261,SUCCESS,Savings Account
+UPI2026000163,2026-10-09,17:05:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,211.65,0.0,1425.48,UPI,localvendor@upi,REF390201942747,SUCCESS,Savings Account
+UPI2026000164,2026-10-11,15:00:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,372.76,0.0,1052.72,UPI,localvendor@upi,REF453183052341,SUCCESS,Savings Account
+UPI2026000165,2026-10-11,19:05:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,92.36,0.0,960.36,UPI,localvendor@upi,REF194027727338,SUCCESS,Savings Account
+UPI2026000166,2026-10-11,19:20:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,334.2,0.0,626.16,UPI,localvendor@upi,REF174505397253,SUCCESS,Savings Account
+UPI2026000167,2026-10-12,11:00:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,353.06,0.0,273.1,UPI,localvendor@upi,REF983931890682,SUCCESS,Savings Account
+UPI2026000168,2026-10-12,12:30:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,67.29,0.0,205.81,UPI,localvendor@upi,REF359413169757,SUCCESS,Savings Account
+UPI2026000169,2026-10-13,09:50:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,101.8,0.0,104.01,UPI,localvendor@upi,REF903739409886,SUCCESS,Savings Account
+UPI2026000170,2026-10-13,20:15:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,292.39,0.0,-188.38,UPI,localvendor@upi,REF547776110449,SUCCESS,Savings Account
+UPI2026000171,2026-10-14,08:30:00,Cashback Reward,Rewards Program,Cashback,Credit,0.0,1000.0,811.62,UPI,rewards@paytm,REF734485640629,SUCCESS,Savings Account
+UPI2026000172,2026-10-14,12:30:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,136.68,0.0,674.94,UPI,localvendor@upi,REF827884322846,SUCCESS,Savings Account
+UPI2026000173,2026-10-14,13:00:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,322.73,0.0,352.21,UPI,localvendor@upi,REF995871324600,SUCCESS,Savings Account
+UPI2026000174,2026-10-14,17:40:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,286.06,0.0,66.15,UPI,localvendor@upi,REF567288487677,SUCCESS,Savings Account
+UPI2026000175,2026-10-15,10:40:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,146.63,0.0,-80.48,UPI,localvendor@upi,REF737960222073,SUCCESS,Savings Account
+UPI2026000176,2026-10-16,14:20:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,267.07,0.0,-347.55,UPI,localvendor@upi,REF269479100925,SUCCESS,Savings Account
+UPI2026000177,2026-10-17,12:15:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,232.7,0.0,-580.25,UPI,localvendor@upi,REF498747834072,SUCCESS,Savings Account
+UPI2026000178,2026-10-17,12:40:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,388.59,0.0,-968.84,UPI,localvendor@upi,REF729414393197,SUCCESS,Savings Account
+UPI2026000179,2026-10-18,15:10:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,123.61,0.0,-1092.45,UPI,localvendor@upi,REF818796764492,SUCCESS,Savings Account
+UPI2026000180,2026-10-18,19:20:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,383.23,0.0,-1475.68,UPI,localvendor@upi,REF723801891597,SUCCESS,Savings Account
+UPI2026000181,2026-10-19,09:30:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,428.62,0.0,-1904.3,UPI,localvendor@upi,REF306151025665,SUCCESS,Savings Account
+UPI2026000182,2026-10-19,13:20:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,108.11,0.0,-2012.41,UPI,localvendor@upi,REF128416590317,SUCCESS,Savings Account
+UPI2026000183,2026-10-20,10:45:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,263.41,0.0,-2275.82,UPI,localvendor@upi,REF844260416464,SUCCESS,Savings Account
+UPI2026000184,2026-10-20,14:15:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,105.43,0.0,-2381.25,UPI,localvendor@upi,REF439521969050,SUCCESS,Savings Account
+UPI2026000185,2026-10-21,09:40:00,Interest Credit,Bank,Interest,Credit,0.0,1000.0,-1381.25,Bank Credit,,REF343348797197,SUCCESS,Fixed Deposit Account
+UPI2026000186,2026-10-22,08:20:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,368.84,0.0,-1750.09,UPI,localvendor@upi,REF616912148302,SUCCESS,Savings Account
+UPI2026000187,2026-10-22,13:40:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,136.21,0.0,-1886.3,UPI,localvendor@upi,REF690179247189,SUCCESS,Savings Account
+UPI2026000188,2026-10-22,17:55:00,Transfer Received,Aarav Mehta,Transfers,Credit,0.0,0.0,-1886.3,UPI,aarav.mehta@okaxis,REF269784808940,FAILED,Savings Account
+UPI2026000189,2026-10-23,21:30:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,165.12,0.0,-2051.42,UPI,localvendor@upi,REF274479352040,SUCCESS,Savings Account
+UPI2026000190,2026-10-24,08:40:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,77.56,0.0,-2128.98,UPI,localvendor@upi,REF510940307172,SUCCESS,Savings Account
+UPI2026000191,2026-10-24,13:15:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,418.58,0.0,-2547.56,UPI,localvendor@upi,REF904239631654,SUCCESS,Savings Account
+UPI2026000192,2026-10-25,19:05:00,Small UPI Purchase,Corner Store,Miscellaneous,Debit,403.25,0.0,-2950.81,UPI,localvendor@upi,REF209806617348,SUCCESS,Savings Account
+UPI2026000193,2026-10-26,17:20:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,372.15,0.0,-3322.96,UPI,localvendor@upi,REF529519036339,SUCCESS,Savings Account
+UPI2026000194,2026-10-27,09:15:00,Small UPI Purchase,Quick Mart,Miscellaneous,Debit,137.4,0.0,-3460.36,UPI,localvendor@upi,REF319917595523,SUCCESS,Savings Account
+UPI2026000195,2026-10-27,14:30:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,369.42,0.0,-3829.78,UPI,localvendor@upi,REF195681916539,SUCCESS,Savings Account
+UPI2026000196,2026-10-27,15:10:00,Small UPI Purchase,Local Vendor,Miscellaneous,Debit,196.39,0.0,-4026.17,UPI,localvendor@upi,REF388975833093,SUCCESS,Savings Account
+UPI2026000197,2026-10-28,14:40:00,Monthly Salary,Northstar Technologies Pvt Ltd,Income,Credit,0.0,61440.26,57414.09,NEFT,,REF546941604783,SUCCESS,Salary Account
+UPI2026000198,2026-10-28,21:55:00,Vehicle Service,City Motors Service,Transport,Debit,4780.63,0.0,52633.46,UPI,citymotors@okhdfcbank,REF216125081808,SUCCESS,Savings Account
+UPI2026000199,2026-10-30,11:45:00,Life Insurance Premium,HDFC Life,Insurance,Debit,5429.57,0.0,47203.89,Auto Debit,,REF274522020336,SUCCESS,Savings Account
+UPI2026000200,2026-10-31,19:30:00,Health Insurance Premium,Star Health,Insurance,Debit,2383.92,0.0,44819.97,Auto Debit,,REF812916952286,SUCCESS,Savings Account

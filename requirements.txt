@@ -1,0 +1,14 @@
+pandas
+pydantic
+streamlit>=1.50
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+chromadb
+pdfplumber
+python-dotenv
+langchain-ollama
+langchain-groq
+# optional, only if EMBED_BACKEND=sentence-transformers (pulls in torch, large):
+# sentence-transformers
